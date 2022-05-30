@@ -1,0 +1,13 @@
+@import "../node_modules/bulma/css/bulma.css";
+
+.root {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.buttons {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
